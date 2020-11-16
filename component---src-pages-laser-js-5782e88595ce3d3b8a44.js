@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{NVP3:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=(a("Tj4o"),a("Wbzz")),r=a("ZAVB");t.default=function(){var e=Object(c.useStaticQuery)("3075831431");return console.log(e),o.a.createElement(r.a,{pageName:"Laser",photos:e})}}}]);
+//# sourceMappingURL=component---src-pages-laser-js-5782e88595ce3d3b8a44.js.map
