@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{E3lq:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=(a("Tj4o"),a("Wbzz")),r=a("ZAVB");t.default=function(){var e=Object(c.useStaticQuery)("1664246110");return o.a.createElement(r.a,{pageName:"Dekoracje",photos:e})}}}]);
-//# sourceMappingURL=component---src-pages-dekoracje-js-9e7678849f516adff99d.js.map
